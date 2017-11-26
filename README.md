@@ -109,6 +109,8 @@ Computer networking is not only for Network Engineers, It's for every profession
 
 If you like `practical-computer-networking` you can support me with:
 
+\[!\[Beerpay\]\(https://beerpay.io/theodesp/practical-computer-networking/badge.svg?style=beer-square\)\]\(https://beerpay.io/theodesp/practical-computer-networking\)  \[!\[Beerpay\]\(https://beerpay.io/theodesp/practical-computer-networking/make-wish.svg?style=flat-square\)\]\(https://beerpay.io/theodesp/practical-computer-networking?focus=wish\)
+
 ### LICENSE
 
 Licensed [BY-NC-SA Creative Commons](http://creativecommons.org/licenses/by-nc-sa/4.0/).
