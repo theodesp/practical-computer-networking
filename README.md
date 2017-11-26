@@ -62,7 +62,7 @@ Hopefully, by the end of this series, you will be able to manipulate packets lik
 
 ### What can I learn?
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.   
+> Tell me and I forget. Teach me and I remember. Involve me and I learn.  
 > Benjamin Franklin
 
 I’ve divided the important stuff into sections. For each section, there will be some articles explaining a particular topic. Each article will have some theory in a narrative and explanatory way. At the end of each article, there will be challenges in various forms that are designed to test your understanding of the theory. **The challenges themselves will not be trivial. So it's important to tackle them with a clear mind.**
