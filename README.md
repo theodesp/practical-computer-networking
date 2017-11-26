@@ -1,5 +1,7 @@
 # Practical Computer Networking 🏁
 
+[![Beerpay](https://beerpay.io/theodesp/practical-computer-networking/badge.svg?style=beer-square)](https://beerpay.io/theodesp/practical-computer-networking)  [![Beerpay](https://beerpay.io/theodesp/practical-computer-networking/make-wish.svg?style=flat-square)](https://beerpay.io/theodesp/practical-computer-networking?focus=wish)
+
 Recently [someone](https://hackernoon.com/2018s-software-engineering-talent-shortage-its-quality-not-just-quantity-6bdfa366b899) posted that:
 
 > **The software engineering shortage is not a lack of individuals calling themselves “engineers”, the shortage is one of quality — a lack of well-studied, experienced engineers with a formal and deep understanding of software engineering.**
