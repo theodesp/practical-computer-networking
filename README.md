@@ -110,7 +110,7 @@ Computer networking is not only for Network Engineers, It's for every profession
 
 ### Support🎗️
 
-If you like `practical-computer-networking` you can support me with:
+I don’t get financial support for this, but if you would like to support me you can buy me a beer with:
 
 [![Beerpay](https://beerpay.io/theodesp/practical-computer-networking/badge.svg?style=beer-square)](https://beerpay.io/theodesp/practical-computer-networking)  [![Beerpay](https://beerpay.io/theodesp/practical-computer-networking/make-wish.svg?style=flat-square)](https://beerpay.io/theodesp/practical-computer-networking?focus=wish)
 
