@@ -105,3 +105,8 @@ I suggest you go, download the tools and familiarize yourself with them as you w
 
 Computer networking is not only for Network Engineers, It's for every professional working in the field of Computers. The world does not need more coders. It needs more problem solvers, more security aware and information technology professionals. Follow this series and you learn everything you need to know to be like that. \(I hope I've managed to convince you by now.🙏\)
 
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/theodesp/practical-computer-networking/badge.svg?style=beer-square)](https://beerpay.io/theodesp/practical-computer-networking)  [![Beerpay](https://beerpay.io/theodesp/practical-computer-networking/make-wish.svg?style=flat-square)](https://beerpay.io/theodesp/practical-computer-networking?focus=wish)
